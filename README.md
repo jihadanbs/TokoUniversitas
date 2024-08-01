@@ -52,6 +52,3 @@ There'is 3 another controllers from [Midtrans Codeigniter library](https://githu
 
 - Order List
   ![alt text](https://i.ibb.co/zrg9w6d/orderlist.jpg)
-
-Thanyou. <br>
-<a href="https://www.buymeacoffee.com/yogibagus" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
